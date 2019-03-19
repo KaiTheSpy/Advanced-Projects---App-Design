@@ -3,6 +3,8 @@
 // WiFi - Version: Latest 
 // SPI - Version: Latest 
 
+//Version 2.75
+//Attempt at reconciling the buffer stuff with the no delays.
 /*Welcome to the Arduino code for the Robot Project! All code here is attributed to both 
  * Tony Mauro and Nathaniel Shalev, but may be edited for whatever purpose you need. 
  * Please credit us for any project you use this code for. Enjoy!

@@ -15,7 +15,6 @@
  * Your first step here is to download all the correct libraries. Some of them 
  * are already downloaded as a preset and others are from GitHub. 
  * Here is where you can find each library:
- * INSERT URLS HERE!
  * 
  * Before running the code, please be sure to select the right board and import all
  * correct libraries.
